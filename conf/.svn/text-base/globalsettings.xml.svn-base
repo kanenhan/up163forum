@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<XMLBean class="" >
+<ArrayList hashcode="-45380146" class="java.util.ArrayList" >
+<element hashcode="817899724" class="com.hanmanyi.up.beans.GlobalSettings" >
+    <url class="java.lang.String"><![CDATA[http://comment.news.163.com/reply/upvote/news3_bbs/9R4MHNEU00014JB5_9R5DGJP4]]></url>
+    <refer class="java.lang.String"><![CDATA[http://comment.news.163.com/news3_bbs/9R4MHNEU00014JB5.html]]></refer>
+    <num class="java.lang.Integer">2000</num></element>
+<element hashcode="397836821" class="com.hanmanyi.up.beans.GlobalSettings" >
+    <url class="java.lang.String"><![CDATA[http://comment.news.163.com/reply/upvote/news3_bbs/9R4MHNEU00014JB5_9R5DH274]]></url>
+    <refer class="java.lang.String"><![CDATA[http://comment.news.163.com/news3_bbs/9R4MHNEU00014JB5.html]]></refer>
+    <num class="java.lang.Integer">1500</num></element>
+<element hashcode="1326857436" class="com.hanmanyi.up.beans.GlobalSettings" >
+    <url class="java.lang.String"><![CDATA[http://comment.news.163.com/reply/upvote/news3_bbs/9R4MHNEU00014JB5_9R5DE68C]]></url>
+    <refer class="java.lang.String"><![CDATA[http://comment.news.163.com/news3_bbs/9R4MHNEU00014JB5.html]]></refer>
+    <num class="java.lang.Integer">1200</num></element>
+<element hashcode="1022736404" class="com.hanmanyi.up.beans.GlobalSettings" >
+    <url class="java.lang.String"><![CDATA[http://comment.news.163.com/reply/upvote/news3_bbs/9R4MHNEU00014JB5_9R5DELVR]]></url>
+    <refer class="java.lang.String"><![CDATA[http://comment.news.163.com/news3_bbs/9R4MHNEU00014JB5.html]]></refer>
+    <num class="java.lang.Integer">1100</num></element>
+<element hashcode="671631440" class="com.hanmanyi.up.beans.GlobalSettings" >
+    <url class="java.lang.String"><![CDATA[http://comment.news.163.com/reply/upvote/news3_bbs/9R4MHNEU00014JB5_9R5DF16L]]></url>
+    <refer class="java.lang.String"><![CDATA[http://comment.news.163.com/news3_bbs/9R4MHNEU00014JB5.html]]></refer>
+    <num class="java.lang.Integer">1300</num></element>
+</ArrayList></XMLBean>
